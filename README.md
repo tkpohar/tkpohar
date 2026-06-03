@@ -39,13 +39,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tkpohar&show_icons=true&hide_border=true&title_color=C8882C&icon_color=C8882C&text_color=555555&bg_color=fafafa&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkpohar&layout=compact&hide_border=true&title_color=C8882C&text_color=555555&bg_color=fafafa&langs_count=6" height="165"/>
-</p>
-
 ---
 
 *Let's build something great together 🚀*
