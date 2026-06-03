@@ -1,6 +1,6 @@
 # Hi there, I'm Tanvai Pohare 👋
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-C8882C?style=flat-square&logo=firefox&logoColor=white)](https://portfolio-ivory-eight-oqc3qhbsa5.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-C8882C?style=flat-square&logo=firefox&logoColor=white)](https://tanvai-pohare.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvai-kpohare412/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tanvaipohare0412@gmail.com)
 
@@ -42,12 +42,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tkpohar&show_icons=true&hide_border=true&title_color=C8882C&icon_color=C8882C&text_color=555&bg_color=ffffff" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkpohar&layout=compact&hide_border=true&title_color=C8882C&text_color=555&bg_color=ffffff" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tkpohar&hide_border=true&ring=C8882C&fire=C8882C&currStreakLabel=C8882C" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tkpohar&show_icons=true&hide_border=true&title_color=C8882C&icon_color=C8882C&text_color=555555&bg_color=fafafa&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkpohar&layout=compact&hide_border=true&title_color=C8882C&text_color=555555&bg_color=fafafa&langs_count=6" height="165"/>
 </p>
 
 ---
