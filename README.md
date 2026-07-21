@@ -10,7 +10,7 @@
 
 - 🎓 **M.S. Information Systems** — Illinois State University (May 2026)
 - 🎓 **B.E. Electronics Engineering** — G. H. Raisoni College of Engineering (2021)
-- 💼 Data Engineer with 5+ years of experience at **Infocepts Technologies**
+- 💼 Data Engineer with 5+ years of experience including 3 years of experience at **Infocepts Technologies**
 - 🔬 **3× Published Researcher** at MWAIS 2026 Conference
 - 🛠 Currently working on: AI system modeling, secure code generation research, and responsible AI education
 - 📍 Normal, IL
